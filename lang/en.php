@@ -1,0 +1,25 @@
+<?php
+return [
+    'home' => 'Home',
+    'about' => 'About Us',
+    'projects' => 'Projects',
+    'contact' => 'Contact',
+    'news' => 'News',
+    'read_more' => 'Read More',
+    'contact_us' => 'Contact Us',
+    'address' => 'Address',
+    'phone' => 'Phone',
+    'email' => 'Email',
+    'rights' => 'All rights reserved.',
+    'welcome_title' => 'Modern Farming Solutions',
+    'welcome_desc' => 'Technological innovations for sustainable and efficient agriculture.',
+    'latest_news' => 'Latest News',
+    'our_projects' => 'Our Projects',
+    'about_us_title' => 'Who We Are?',
+    'about_us_desc' => 'Farming4 is a leading organization providing innovative solutions in the agricultural sector.',
+    'contact_title' => 'Get in Touch',
+    'send_message' => 'Send Message',
+    'name' => 'Your Name',
+    'message' => 'Your Message',
+    'submit' => 'Submit'
+];

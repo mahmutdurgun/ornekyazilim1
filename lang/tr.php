@@ -1,0 +1,25 @@
+<?php
+return [
+    'home' => 'Anasayfa',
+    'about' => 'Hakkımızda',
+    'projects' => 'Projelerimiz',
+    'contact' => 'İletişim',
+    'news' => 'Haberler',
+    'read_more' => 'Devamını Oku',
+    'contact_us' => 'Bize Ulaşın',
+    'address' => 'Adres',
+    'phone' => 'Telefon',
+    'email' => 'E-posta',
+    'rights' => 'Tüm hakları saklıdır.',
+    'welcome_title' => 'Modern Tarım Çözümleri',
+    'welcome_desc' => 'Sürdürülebilir ve verimli tarım için teknolojik yenilikler.',
+    'latest_news' => 'Son Haberler',
+    'our_projects' => 'Projelerimiz',
+    'about_us_title' => 'Biz Kimiz?',
+    'about_us_desc' => 'Farming4, tarım sektöründe yenilikçi çözümler sunan öncü bir kuruluştur.',
+    'contact_title' => 'İletişime Geçin',
+    'send_message' => 'Mesaj Gönder',
+    'name' => 'Adınız',
+    'message' => 'Mesajınız',
+    'submit' => 'Gönder'
+];
